@@ -35,55 +35,55 @@
 		635AD0F21F4976D6002AFE0D /* RefreshKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD0F01F4976D6002AFE0D /* RefreshKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD0F51F4976D6002AFE0D /* RefreshKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 635AD0EE1F4976D6002AFE0D /* RefreshKit.framework */; };
 		635AD0F61F4976D6002AFE0D /* RefreshKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 635AD0EE1F4976D6002AFE0D /* RefreshKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		635AD12A1F49778A002AFE0D /* MJRefreshAutoFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD0FD1F49778A002AFE0D /* MJRefreshAutoFooter.h */; };
+		635AD12A1F49778A002AFE0D /* MJRefreshAutoFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD0FD1F49778A002AFE0D /* MJRefreshAutoFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD12B1F49778A002AFE0D /* MJRefreshAutoFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD0FE1F49778A002AFE0D /* MJRefreshAutoFooter.m */; };
 		635AD12C1F49778A002AFE0D /* MJRefreshAutoFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD0FE1F49778A002AFE0D /* MJRefreshAutoFooter.m */; };
-		635AD12D1F49778A002AFE0D /* MJRefreshBackFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD0FF1F49778A002AFE0D /* MJRefreshBackFooter.h */; };
+		635AD12D1F49778A002AFE0D /* MJRefreshBackFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD0FF1F49778A002AFE0D /* MJRefreshBackFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD12E1F49778A002AFE0D /* MJRefreshBackFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1001F49778A002AFE0D /* MJRefreshBackFooter.m */; };
 		635AD12F1F49778A002AFE0D /* MJRefreshBackFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1001F49778A002AFE0D /* MJRefreshBackFooter.m */; };
-		635AD1301F49778A002AFE0D /* MJRefreshComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1011F49778A002AFE0D /* MJRefreshComponent.h */; };
+		635AD1301F49778A002AFE0D /* MJRefreshComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1011F49778A002AFE0D /* MJRefreshComponent.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1311F49778A002AFE0D /* MJRefreshComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1021F49778A002AFE0D /* MJRefreshComponent.m */; };
 		635AD1321F49778A002AFE0D /* MJRefreshComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1021F49778A002AFE0D /* MJRefreshComponent.m */; };
-		635AD1331F49778A002AFE0D /* MJRefreshFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1031F49778A002AFE0D /* MJRefreshFooter.h */; };
+		635AD1331F49778A002AFE0D /* MJRefreshFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1031F49778A002AFE0D /* MJRefreshFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1341F49778A002AFE0D /* MJRefreshFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1041F49778A002AFE0D /* MJRefreshFooter.m */; };
 		635AD1351F49778A002AFE0D /* MJRefreshFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1041F49778A002AFE0D /* MJRefreshFooter.m */; };
-		635AD1361F49778A002AFE0D /* MJRefreshHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1051F49778A002AFE0D /* MJRefreshHeader.h */; };
+		635AD1361F49778A002AFE0D /* MJRefreshHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1051F49778A002AFE0D /* MJRefreshHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1371F49778A002AFE0D /* MJRefreshHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1061F49778A002AFE0D /* MJRefreshHeader.m */; };
 		635AD1381F49778A002AFE0D /* MJRefreshHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1061F49778A002AFE0D /* MJRefreshHeader.m */; };
-		635AD1391F49778A002AFE0D /* MJRefreshAutoGifFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD10A1F49778A002AFE0D /* MJRefreshAutoGifFooter.h */; };
+		635AD1391F49778A002AFE0D /* MJRefreshAutoGifFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD10A1F49778A002AFE0D /* MJRefreshAutoGifFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD13A1F49778A002AFE0D /* MJRefreshAutoGifFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD10B1F49778A002AFE0D /* MJRefreshAutoGifFooter.m */; };
 		635AD13B1F49778A002AFE0D /* MJRefreshAutoGifFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD10B1F49778A002AFE0D /* MJRefreshAutoGifFooter.m */; };
-		635AD13C1F49778A002AFE0D /* MJRefreshAutoNormalFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD10C1F49778A002AFE0D /* MJRefreshAutoNormalFooter.h */; };
+		635AD13C1F49778A002AFE0D /* MJRefreshAutoNormalFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD10C1F49778A002AFE0D /* MJRefreshAutoNormalFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD13D1F49778A002AFE0D /* MJRefreshAutoNormalFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD10D1F49778A002AFE0D /* MJRefreshAutoNormalFooter.m */; };
 		635AD13E1F49778A002AFE0D /* MJRefreshAutoNormalFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD10D1F49778A002AFE0D /* MJRefreshAutoNormalFooter.m */; };
-		635AD13F1F49778A002AFE0D /* MJRefreshAutoStateFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD10E1F49778A002AFE0D /* MJRefreshAutoStateFooter.h */; };
+		635AD13F1F49778A002AFE0D /* MJRefreshAutoStateFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD10E1F49778A002AFE0D /* MJRefreshAutoStateFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1401F49778A002AFE0D /* MJRefreshAutoStateFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD10F1F49778A002AFE0D /* MJRefreshAutoStateFooter.m */; };
 		635AD1411F49778A002AFE0D /* MJRefreshAutoStateFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD10F1F49778A002AFE0D /* MJRefreshAutoStateFooter.m */; };
-		635AD1421F49778A002AFE0D /* MJRefreshBackGifFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1111F49778A002AFE0D /* MJRefreshBackGifFooter.h */; };
+		635AD1421F49778A002AFE0D /* MJRefreshBackGifFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1111F49778A002AFE0D /* MJRefreshBackGifFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1431F49778A002AFE0D /* MJRefreshBackGifFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1121F49778A002AFE0D /* MJRefreshBackGifFooter.m */; };
 		635AD1441F49778A002AFE0D /* MJRefreshBackGifFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1121F49778A002AFE0D /* MJRefreshBackGifFooter.m */; };
-		635AD1451F49778A002AFE0D /* MJRefreshBackNormalFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1131F49778A002AFE0D /* MJRefreshBackNormalFooter.h */; };
+		635AD1451F49778A002AFE0D /* MJRefreshBackNormalFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1131F49778A002AFE0D /* MJRefreshBackNormalFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1461F49778A002AFE0D /* MJRefreshBackNormalFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1141F49778A002AFE0D /* MJRefreshBackNormalFooter.m */; };
 		635AD1471F49778A002AFE0D /* MJRefreshBackNormalFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1141F49778A002AFE0D /* MJRefreshBackNormalFooter.m */; };
-		635AD1481F49778A002AFE0D /* MJRefreshBackStateFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1151F49778A002AFE0D /* MJRefreshBackStateFooter.h */; };
+		635AD1481F49778A002AFE0D /* MJRefreshBackStateFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1151F49778A002AFE0D /* MJRefreshBackStateFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1491F49778A002AFE0D /* MJRefreshBackStateFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1161F49778A002AFE0D /* MJRefreshBackStateFooter.m */; };
 		635AD14A1F49778A002AFE0D /* MJRefreshBackStateFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1161F49778A002AFE0D /* MJRefreshBackStateFooter.m */; };
-		635AD14B1F49778A002AFE0D /* MJRefreshGifHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1181F49778A002AFE0D /* MJRefreshGifHeader.h */; };
+		635AD14B1F49778A002AFE0D /* MJRefreshGifHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1181F49778A002AFE0D /* MJRefreshGifHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD14C1F49778A002AFE0D /* MJRefreshGifHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1191F49778A002AFE0D /* MJRefreshGifHeader.m */; };
 		635AD14D1F49778A002AFE0D /* MJRefreshGifHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1191F49778A002AFE0D /* MJRefreshGifHeader.m */; };
-		635AD14E1F49778A002AFE0D /* MJRefreshNormalHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD11A1F49778A002AFE0D /* MJRefreshNormalHeader.h */; };
+		635AD14E1F49778A002AFE0D /* MJRefreshNormalHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD11A1F49778A002AFE0D /* MJRefreshNormalHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD14F1F49778A002AFE0D /* MJRefreshNormalHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD11B1F49778A002AFE0D /* MJRefreshNormalHeader.m */; };
 		635AD1501F49778A002AFE0D /* MJRefreshNormalHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD11B1F49778A002AFE0D /* MJRefreshNormalHeader.m */; };
-		635AD1511F49778A002AFE0D /* MJRefreshStateHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD11C1F49778A002AFE0D /* MJRefreshStateHeader.h */; };
+		635AD1511F49778A002AFE0D /* MJRefreshStateHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD11C1F49778A002AFE0D /* MJRefreshStateHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1521F49778A002AFE0D /* MJRefreshStateHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD11D1F49778A002AFE0D /* MJRefreshStateHeader.m */; };
 		635AD1531F49778A002AFE0D /* MJRefreshStateHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD11D1F49778A002AFE0D /* MJRefreshStateHeader.m */; };
 		635AD1541F49778A002AFE0D /* MJRefresh.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 635AD11E1F49778A002AFE0D /* MJRefresh.bundle */; };
 		635AD1551F49778A002AFE0D /* MJRefresh.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 635AD11E1F49778A002AFE0D /* MJRefresh.bundle */; };
 		635AD1561F49778A002AFE0D /* MJRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD11F1F49778A002AFE0D /* MJRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		635AD1571F49778A002AFE0D /* MJRefreshConst.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1201F49778A002AFE0D /* MJRefreshConst.h */; };
+		635AD1571F49778A002AFE0D /* MJRefreshConst.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1201F49778A002AFE0D /* MJRefreshConst.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD1581F49778A002AFE0D /* MJRefreshConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1211F49778A002AFE0D /* MJRefreshConst.m */; };
 		635AD1591F49778A002AFE0D /* MJRefreshConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1211F49778A002AFE0D /* MJRefreshConst.m */; };
-		635AD15A1F49778A002AFE0D /* NSBundle+MJRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1221F49778A002AFE0D /* NSBundle+MJRefresh.h */; };
+		635AD15A1F49778A002AFE0D /* NSBundle+MJRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1221F49778A002AFE0D /* NSBundle+MJRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		635AD15B1F49778A002AFE0D /* NSBundle+MJRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1231F49778A002AFE0D /* NSBundle+MJRefresh.m */; };
 		635AD15C1F49778A002AFE0D /* NSBundle+MJRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = 635AD1231F49778A002AFE0D /* NSBundle+MJRefresh.m */; };
 		635AD15D1F49778A002AFE0D /* UIScrollView+MJExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = 635AD1241F49778A002AFE0D /* UIScrollView+MJExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -504,27 +504,27 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				635AD1511F49778A002AFE0D /* MJRefreshStateHeader.h in Headers */,
 				635AD1601F49778A002AFE0D /* UIScrollView+MJRefresh.h in Headers */,
 				635AD1631F49778A002AFE0D /* UIView+MJExtension.h in Headers */,
 				635AD15D1F49778A002AFE0D /* UIScrollView+MJExtension.h in Headers */,
 				635AD1561F49778A002AFE0D /* MJRefresh.h in Headers */,
+				635AD1511F49778A002AFE0D /* MJRefreshStateHeader.h in Headers */,
 				635AD13C1F49778A002AFE0D /* MJRefreshAutoNormalFooter.h in Headers */,
 				635AD14B1F49778A002AFE0D /* MJRefreshGifHeader.h in Headers */,
 				635AD13F1F49778A002AFE0D /* MJRefreshAutoStateFooter.h in Headers */,
 				635AD12D1F49778A002AFE0D /* MJRefreshBackFooter.h in Headers */,
-				635AD0F21F4976D6002AFE0D /* RefreshKit.h in Headers */,
 				635AD12A1F49778A002AFE0D /* MJRefreshAutoFooter.h in Headers */,
 				635AD1301F49778A002AFE0D /* MJRefreshComponent.h in Headers */,
 				635AD1361F49778A002AFE0D /* MJRefreshHeader.h in Headers */,
 				635AD1481F49778A002AFE0D /* MJRefreshBackStateFooter.h in Headers */,
-				635AD1571F49778A002AFE0D /* MJRefreshConst.h in Headers */,
 				635AD15A1F49778A002AFE0D /* NSBundle+MJRefresh.h in Headers */,
 				635AD1451F49778A002AFE0D /* MJRefreshBackNormalFooter.h in Headers */,
 				635AD1391F49778A002AFE0D /* MJRefreshAutoGifFooter.h in Headers */,
 				635AD1421F49778A002AFE0D /* MJRefreshBackGifFooter.h in Headers */,
 				635AD1331F49778A002AFE0D /* MJRefreshFooter.h in Headers */,
 				635AD14E1F49778A002AFE0D /* MJRefreshNormalHeader.h in Headers */,
+				635AD0F21F4976D6002AFE0D /* RefreshKit.h in Headers */,
+				635AD1571F49778A002AFE0D /* MJRefreshConst.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
