@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 
 #import "MJRefresh.h"
+#import "MJRefreshConst.h"
 
 //! Project version number for RefreshKit.
 FOUNDATION_EXPORT double RefreshKitVersionNumber;
